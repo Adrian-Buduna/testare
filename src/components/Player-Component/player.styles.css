@@ -1,0 +1,13 @@
+.player {
+  background-color: #695acdad;
+  border-radius: 20px;
+  width: 80%;
+  margin: 0 auto;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+.player-text {
+  color: #e6e6fa;
+}

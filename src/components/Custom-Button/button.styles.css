@@ -1,0 +1,10 @@
+.custum-button{
+    height:40px;
+    width:120px;
+    border-radius: 4px;
+    background-color: rgba(41, 66, 146, 0.575);
+    border-style: none;
+}
+.custum-button:hover{
+    background-color: rgba(41, 66, 146, 0.801);
+}
